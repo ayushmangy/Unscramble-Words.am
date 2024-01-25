@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="score">Score: %d</string>
+    <string name="wordCount">%d/10</string>
+    <string name="ins">Unscramble the words using all the letters</string>
+    <string name="you_scored">You scored: %d</string>
+
+
+</resources>
